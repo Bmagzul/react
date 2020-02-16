@@ -21,3 +21,25 @@ tic-tac-toe/.env.production.local
 tic-tac-toe/npm-debug.log*
 tic-tac-toe/yarn-debug.log*
 tic-tac-toe/yarn-error.log*
+
+# dependencies
+Kupper/node_modules
+Kupper/.pnp
+Kupper/.pnp.js
+
+# testing
+Kupper/coverage
+
+# production
+Kupper/build
+
+# misc
+Kupper/.DS_Store
+Kupper/.env.local
+Kupper/.env.development.local
+Kupper/.env.test.local
+Kupper/.env.production.local
+
+Kupper/npm-debug.log*
+Kupper/yarn-debug.log*
+Kupper/yarn-error.log*
